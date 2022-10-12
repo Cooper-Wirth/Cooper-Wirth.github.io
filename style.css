@@ -1,0 +1,20 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+/* We're going to do a class here: */
+.thing{
+  color: blue;
+  background-color: darksalmon
+}
+
+/* IDs */
+#coolstuff {
+  font-family: Cambria, Helvetica, sans-serif;
+  color: steelblue
+}
+
+#notcoolstuff {
+  width: 100px; height: 100px,
+}
